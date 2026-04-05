@@ -35,7 +35,6 @@ Transformar datos de ventas en información accionable mediante herramientas de 
 - Comparación ventas vs meta por región  
 - Top 10 productos  
 
-![Resumen](images/EV8_Dashboard_1.png)
 
 ---
 
@@ -45,7 +44,6 @@ Transformar datos de ventas en información accionable mediante herramientas de 
 - Cumplimiento (%)  
 - Tabla de ventas  
 
-![Análisis](images/EV8_Dashboard_2.png)
 
 ---
 
@@ -54,8 +52,6 @@ Transformar datos de ventas en información accionable mediante herramientas de 
 - Mapa de ventas por país  
 - Cantidad vendida por categoría  
 
-![Detalle](images/EV8_Dashboard_3.png)
-
 ---
 
 ## 💡 Insights principales
@@ -63,6 +59,3 @@ Transformar datos de ventas en información accionable mediante herramientas de 
 - Diferencias significativas de desempeño entre regiones  
 - Identificación de oportunidades de mejora en cumplimiento  
 
----
-
-## 📂 Estructura del repositorio
